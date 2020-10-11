@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace LibreriaNegocio
 {
-    class IndumentariaDeportiva : TipoIndumentaria
+    public class IndumentariaDeportiva : TipoIndumentaria
     {
+        public IndumentariaDeportiva(string origen, double porcentajealgo)
+        {
+            this.Origen = origen;
+            if (porcentajealgo >= 1 || porcentajealgo <= 100)
+                PorcentajeAlgodon = porcentajealgo;
+            else
+                throw new Exception("porcentaje erroneo");
+        }
     }
 }

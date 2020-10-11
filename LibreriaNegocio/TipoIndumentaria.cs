@@ -6,9 +6,36 @@ using System.Threading.Tasks;
 
 namespace LibreriaNegocio
 {
-    abstract class TipoIndumentaria
+    public abstract class TipoIndumentaria
     {
-        private string origen;
-        private double PorcentajeAlgodon;
+        private string _origen;
+        private double _porcentajeAlgodon;
+
+        public string Origen
+        {
+            get
+            {
+                return this._origen;
+            }
+            set
+            {
+                this._origen = value;
+            }
+        }
+        public double PorcentajeAlgodon
+        {
+            get
+            {
+                return this._porcentajeAlgodon;
+            }
+            set
+            {
+                if (_porcentajeAlgodon >= 1 || _porcentajeAlgodon <= 100)
+                    this._porcentajeAlgodon = value;
+                else
+                    throw new Exception("porcentaje erroneo");
+
+            }
+        }
     }
 }

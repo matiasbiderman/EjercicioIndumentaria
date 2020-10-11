@@ -8,13 +8,13 @@ namespace LibreriaNegocio
 {
     public class VentaItem
     {
-        private Indumentaria prenda;
+       /* private Indumentaria prenda;
         private int cantidad;
 
         public double GetTotal()
         {
 
-        }
+        }*/
 
     }
 }

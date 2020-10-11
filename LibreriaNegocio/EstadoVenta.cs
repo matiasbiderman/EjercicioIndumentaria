@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibreriaNegocio
 {
-    public enum TipoEmpleado
+    public enum EstadoVenta
     {
         Iniciada = 1,
         Procesada = 2,

@@ -8,14 +8,14 @@ namespace LibreriaNegocio
 {
     public class Venta
     {
-        private List<VentaItem> items;
+       /* private List<VentaItem> items;
         private Cliente cliente;
         private int estado;
         private int codigo;
 
         public double GetTotalPedido()
         {
-
-        }
+            
+        }*/
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\obj\Debug\EjercicioIndumentaria.csprojAssemblyReference.cache
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\obj\Debug\EjercicioIndumentaria.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\bin\Debug\EjercicioIndumentaria.exe.config
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\bin\Debug\EjercicioIndumentaria.exe
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\bin\Debug\EjercicioIndumentaria.pdb
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\bin\Debug\LibreriaNegocio.dll
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\bin\Debug\LibreriaNegocio.pdb
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\obj\Debug\EjercicioIndumentaria.csproj.CopyComplete
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\obj\Debug\EjercicioIndumentaria.exe
+C:\Users\Mati\Desktop\CAI\202002C\EjercicioIndumentaria\EjercicioIndumentaria\obj\Debug\EjercicioIndumentaria.pdb
