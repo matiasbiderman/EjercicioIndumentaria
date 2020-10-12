@@ -76,7 +76,7 @@ namespace LibreriaNegocio
 
         /*public bool Equals(Object obj)
         {
-            return obj != null && obj is Indumentaria && this.codigo == ((Camisa)obj).codigo;
+            return obj != null && obj is Indumentaria && this.codigo == ((Indumentaria)obj).codigo;
 
         }*/
         public abstract string GetDetalle();
